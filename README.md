@@ -1,16 +1,4 @@
-# flutter_app_with_tutorial
+# Use this to explain how to use your app | Flutter PRO tip #2
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Read the [related article](https://davidserrano.io/use-this-to-explain-how-to-use-your-app-flutter-pro-tip-2).
+- Watch the related video in [Youtube](https://youtu.be/jbC6qPDO1TE) or [Odysee](https://odysee.com/@svprdga:d/use-this-to-explain-how-to-use-your-app-flutter-pro-tip-2).
